@@ -1,0 +1,120 @@
+/* HND/CSS/2024/0360 */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: whitesmoke;
+}
+
+.main-container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 40px auto;
+  padding: 20px;
+  border: 3px solid black;
+  background-color: white;
+}
+
+.clear {
+  clear: both;
+}
+
+.header-box {
+  height: 80px;
+  margin-bottom: 20px;
+}
+
+.large-box-left {
+  float: left;
+  width: 40%;
+  height: 180px;
+  margin-right: 2%;
+}
+.small-box-container {
+  float: left;
+  width: 58%;
+}
+.small-box {
+  float: left;
+  width: 31.33%;
+  height: 80px;
+  margin: 0 1% 20px 1%;
+}
+
+.middle-row-container {
+  margin-top: 20px;
+}
+.medium-box {
+  float: left;
+  width: 23%;
+  height: 100px;
+  margin: 0 1%;
+}
+
+.bottom-left {
+  float: left;
+  width: 25%;
+  margin-top: 20px;
+  margin-right: 2%;
+}
+.stacked-box {
+  height: 100px;
+}
+.tall-box-right {
+  float: left;
+  width: 73%;
+  height: 220px;
+  margin-top: 20px;
+}
+
+.header-box {
+  background-color: midnightblue;
+}
+.large-box-left {
+  background-color: red;
+}
+.tall-box-right {
+  background-color: peru;
+}
+
+.box-1 {
+  background-color: green;
+}
+.box-2 {
+  background-color: teal;
+}
+.box-3 {
+  background-color: yellow;
+}
+.box-4 {
+  background-color: lawngreen;
+}
+.box-5 {
+  background-color: royalblue;
+}
+.box-6 {
+  background-color: palevioletred;
+}
+
+.medium-1 {
+  background-color: saddlebrown;
+}
+.medium-2 {
+  background-color: purple;
+}
+.medium-3 {
+  background-color: navy;
+}
+.medium-4 {
+  background-color: orange;
+}
+
+.stacked-1 {
+  background-color: orangered;
+  margin-bottom: 20px;
+}
+.stacked-2 {
+  background-color: greenyellow;
+}
+/* HND/CSS/2024/0360 */
